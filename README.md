@@ -1,3 +1,4 @@
 # Relegation-Based-League-Championship-Algorithm
 
-Jupyter Notebooks for Relegation Based Algorithm. Further details in Report.
+iPython notebooks for Relegation Based League Championship Algorithm.
+Research paper - https://ieeexplore.ieee.org/document/9654822
